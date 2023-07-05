@@ -1,3 +1,4 @@
+show databases;
 create database BooksDB;
 use BooksDB;
 create table Books(
